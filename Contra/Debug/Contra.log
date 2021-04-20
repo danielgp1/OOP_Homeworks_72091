@@ -1,0 +1,4 @@
+﻿  Contra.cpp
+D:\VisualStudio2019\ООП-П\Homework3\Contra\Contra\Contra.cpp(40,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\VisualStudio2019\ООП-П\Homework3\Contra\Contra\Contra.cpp(325): message : see reference to function template instantiation 'void playPhase<WindCard,FireCard,WaterCard,EarthCard>(Player<WindCard,FireCard> &,Player<WaterCard,EarthCard> &)' being compiled
+  Contra.vcxproj -> D:\VisualStudio2019\ООП-П\Homework3\Contra\Debug\Contra.exe
